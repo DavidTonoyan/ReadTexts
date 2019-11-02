@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\C#\Databases\Task\bin\Debug\netcoreapp3.0\Task.exe
+C:\Users\HP\Documents\C#\Databases\Task\bin\Debug\netcoreapp3.0\Task.deps.json
+C:\Users\HP\Documents\C#\Databases\Task\bin\Debug\netcoreapp3.0\Task.runtimeconfig.json
+C:\Users\HP\Documents\C#\Databases\Task\bin\Debug\netcoreapp3.0\Task.runtimeconfig.dev.json
+C:\Users\HP\Documents\C#\Databases\Task\bin\Debug\netcoreapp3.0\Task.dll
+C:\Users\HP\Documents\C#\Databases\Task\bin\Debug\netcoreapp3.0\Task.pdb
+C:\Users\HP\Documents\C#\Databases\Task\obj\Debug\netcoreapp3.0\Task.csprojAssemblyReference.cache
+C:\Users\HP\Documents\C#\Databases\Task\obj\Debug\netcoreapp3.0\Task.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\C#\Databases\Task\obj\Debug\netcoreapp3.0\Task.AssemblyInfo.cs
+C:\Users\HP\Documents\C#\Databases\Task\obj\Debug\netcoreapp3.0\Task.dll
+C:\Users\HP\Documents\C#\Databases\Task\obj\Debug\netcoreapp3.0\Task.pdb
